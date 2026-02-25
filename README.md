@@ -26,11 +26,11 @@ Each solution contains:
 - Time and Space Complexity analysis  
 
 ## 📂 Repository Structure
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Recursion/
-├── DynamicProgramming/
-└── README.md
+├──>Arrays/
+├──>Strings/
+├──>LinkedList/
+├──>Stack/
+├──>Queue/
+├──>Recursion/
+├──>DynamicProgramming/
+
