@@ -25,12 +25,5 @@ Each solution contains:
 - Explanation of approach  
 - Time and Space Complexity analysis  
 
-## 📂 Repository Structure
-├──>Arrays/
-├──>Strings/
-├──>LinkedList/
-├──>Stack/
-├──>Queue/
-├──>Recursion/
-├──>DynamicProgramming/
+
 
