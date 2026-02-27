@@ -1,4 +1,4 @@
-# 💻 LeetCode Java Solutions
+#  LeetCode Java Solutions
 
 Welcome to my **LeetCode Java Solutions** repository!  
 This repository contains my daily practice of **Data Structures & Algorithms (DSA)** using Java, with clean and optimized solutions.
