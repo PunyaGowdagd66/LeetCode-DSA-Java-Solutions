@@ -18,7 +18,7 @@ This repository contains my daily practice of **Data Structures & Algorithms (DS
 - **Dynamic Programming**  
 - **Trees & Graphs** 
 
-## 🚀 Approach
+##  Approach
 Each solution contains:
 - Problem name & number (LeetCode)  
 - Clean and readable Java implementation  
