@@ -19,7 +19,7 @@ This repository contains my daily practice of Data Structures & Algorithms (DSA)
 - **Trees & Graphs** 
 
 ##  Approach
-Each solution contains:
+Each solution contains
 - Problem name & number (LeetCode)  
 - Clean and readable Java implementation  
 - Explanation of approach  
